@@ -14,6 +14,6 @@ public class Welcomer{
 		return "something in the way";
 	}
 	public String sayNewMethod() {
-		return "New method for hunter";
+		return "New method for hunter task";
 	}
 }
