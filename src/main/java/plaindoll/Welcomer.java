@@ -13,5 +13,8 @@ public class Welcomer{
 	public String saySome(){
 		return "something in the way";
 	}
+	public String sayNewMethod() {
+		return "New method for hunter task";
+	}
 }
 
